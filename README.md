@@ -4,7 +4,7 @@ The assignment in this project was to **predict** veneer sheet shrinkage after i
 
 The whole project is divided into **three teams** and this is the first team (beginning of the pipeline).
 
-## Team network training
+## Team Network Training
 
 ### The objectives of the team briefly
 Preprocessing raw data and pretraining neural network. Therefore, our main task was to preprocess the raw data and to create a pretrained neural network model, which could be used in inference training by the second team.

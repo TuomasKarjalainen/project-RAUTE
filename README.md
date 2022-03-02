@@ -1,11 +1,12 @@
+This project is made to finnish company named RAUTE.
+
 # Team network training
 
-**Customer project – Team 1**
+## The objeectives of the project
 
-## Scrum 
-- Korhonen Anssi - Product Owner
-- Karjalainen Tuomas - Scrum Master
-- Kaaresvirta Kosti - Developer
-- Salminen Krista - Developer
 
-[Team documentation](https://gitlab.dclabra.fi/wiki/eycSt9evRViW4hObuuB4dQ?view)
+
+
+## Note
+- The data has, of course, been removed from this repository. (Privacy reasons)
+- Documentation such as sequence and use-case diagrams have also been removed.

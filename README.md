@@ -1,4 +1,4 @@
-This project is made to finnish company named RAUTE. RAUTE is global maker of veneer, plywood and LVL technologies. 
+This project is made to finnish company named RAUTE. Raute is global maker of veneer, plywood and LVL technologies. 
 
 The assignment in this project was to **predict** veneer sheet shrinkage after it had been dried and create a full pipeline for predicting shrinkage from preprocessing raw data, pretraining **neural network**, doing inference training in distributed training environment and to creating web user interface for the inference training. 
 

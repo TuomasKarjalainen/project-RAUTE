@@ -3,7 +3,7 @@ This project is made to finnish company named RAUTE. Raute is global maker of ve
 The assignment in this project was to **predict** veneer sheet shrinkage after it had been dried and create a full pipeline for predicting shrinkage from preprocessing raw data, pretraining **neural network**, doing inference training in distributed training environment and to creating web user interface for the inference training. 
 
 The whole project is divided into **three teams** and this is the first team (beginning of the pipeline).
-
+[asnfalnsf](https://www.raute.com/investors/)
 ## Team Network Training
 
 ### The objectives of the team briefly

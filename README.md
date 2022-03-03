@@ -11,5 +11,5 @@ Preprocessing raw data and pretraining neural network. Therefore, our main task 
 
 
 ### Note
-- The **data** has, of course, been removed from this repository. (Privacy reasons)
+- The **data** has, of course, been removed from this repository for privacy reasons.
 - Most of the **documentation** has also been removed.

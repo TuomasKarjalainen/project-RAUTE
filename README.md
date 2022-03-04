@@ -7,7 +7,7 @@ The whole project is divided into **three teams** and this is the first team (be
 ## Team Network Training
 
 ### The objectives of the team briefly
-Preprocessing raw data and pretraining neural network. Therefore, our main task was to preprocess the raw data and to create a pretrained neural network model, which could be used in inference training by the second team.
+Preprocessing raw data and pretraining neural network. After that, saving clean data to database. Our main task was to preprocess the raw data and to create a pretrained neural network model, which could be used in inference training by the second team which implements the distributed system.
 
 
 ### Note

@@ -13,4 +13,4 @@ Preprocessing raw data and pretraining neural network. After that, saving clean 
 ### Note
 - The **data** has, of course, been removed from this repository for privacy reasons.
 - Most of the **documentation** has also been removed.
-- This repository has two branches. 
+- This repository has two branches: Main and Testing.

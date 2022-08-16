@@ -13,3 +13,10 @@ Preprocessing raw data and pretraining neural network. Therefore, our main task 
 ### Note
 - The **data** has, of course, been removed from this repository. (Privacy reasons)
 - Most of the **documentation** has also been removed.
+  - **The documentation** is 40 pages long and it is written in English
+  - It contains desciptions and explanations about project's: 
+    - requirements 
+    - data material 
+    - tested machine learning methods 
+    - findigs 
+    - and discussion about results and analysis

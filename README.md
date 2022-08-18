@@ -22,3 +22,6 @@ Preprocessing raw data and pretraining neural network. After that, saving clean 
     - tested machine learning methods 
     - findings 
     - and discussion about results and analysis
+
+![image](https://user-images.githubusercontent.com/91312571/185363527-5a39f69d-254c-4b13-af14-54b2fb9ce30d.png)
+

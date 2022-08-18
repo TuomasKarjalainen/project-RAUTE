@@ -20,5 +20,5 @@ Preprocessing raw data and pretraining neural network. After that, saving clean 
     - architecture
     - data material and it's processing methods 
     - tested machine learning methods 
-    - findigs 
+    - findings 
     - and discussion about results and analysis

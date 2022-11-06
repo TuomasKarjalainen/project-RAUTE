@@ -4,6 +4,8 @@ The assignment in this project was to **predict** veneer sheet shrinkage after i
 
 The whole project is divided into **three teams** and this is the first team (beginning of the pipeline).
 
+![pipeline](https://user-images.githubusercontent.com/91312571/200181469-ca873c59-e173-4ba4-8f65-61270f9c1f55.png)
+
 ## Team Network Training
 
 ### The objectives of the team briefly
@@ -24,4 +26,3 @@ Preprocessing raw data and pretraining neural network. After that, saving clean 
     - and discussion about results and analysis
 
 ![image](https://user-images.githubusercontent.com/91312571/185363527-5a39f69d-254c-4b13-af14-54b2fb9ce30d.png)
-
